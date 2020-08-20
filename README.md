@@ -6,30 +6,30 @@
 
 ![alt text](https://i.imgur.com/4M7IWwP.gif)
 
-# 🔰 Qu'est-ce que c'est? 🔰
+# 🔰 Qu'est-ce que c'est ? 🔰
 
 
 🎨 Mini-Jeux est un projet github visant à créer le plus de mini jeux possible.
 
-Tout le monde peuvent y participer avec le langage de son choix. 🎨
+Tout le monde peut y participer avec le langage de son choix. 🎨
 
-# 📋 Comment ça marche? 📋
+# 📋 Comment ça marche ? 📋
 
-🍁 Le projet est seulement un dossier remplie de mini-jeux exécutable et jouable (accompagné des codes open sources). 🍁 
+🍁 Le projet est seulement un dossier remplie de mini-jeux exécutables et jouables (accompagnés de leur code open source). 🍁 
 
-# 🍀 Comment puis-je le téléchargé? 🍀
+# 🍀 Comment puis-je le télécharger ? 🍀
 
-🎉 Il est actuellement déconseillé de téléchargé le dossier étant-donné que il n'y a pas beaucoup de jeux et que le fichier principal ne s'éxecute que sur certains PC. 🎉
+🎉 Il est actuellement déconseillé de télécharger le dossier étant donné que il n'y a pas beaucoup de jeux et que le fichier principal ne s'exécute que sur certains PC. 🎉
 
-# 💡 J'ai programmé un jeu et j'aimerais participer au projet. Comment je fais? 💡
+# 💡 J'ai programmé un jeu et j'aimerais participer au projet. Comment je fais ? 💡
 
 🍃 Vous n'avez qu'à me demander en ami sur discord (Doctor 0bF#1337) Et nous pourrons discuter. 🍃
 
-# Conditions pour que votre jeu soit accepté: 
+# Conditions pour que votre jeu soit accepté :
 
 1- Il ne doit pas être déjà présent dans le dossier.
 
-2- Vous devez faire une version normale du code et une version compilée en .exe (de préférence, non-obligatoire).
+2- Vous devez faire une version normale du code et une version compilée en binaire (facultatif), ce qui permettra potentiellement d'intégré le jeu sous Windows et les autres OS.
 
 3- Le jeu doit être un jeu et non un tool.
 
@@ -40,6 +40,6 @@ Tout le monde peuvent y participer avec le langage de son choix. 🎨
 
 
 
-# 🔮 Voilà ce qui conclue l'explication de ce projet. J'éspère qu'il vous plaira! 🔮
+# 🔮 Voilà ce qui conclu l'explication de ce projet. J'éspère qu'il vous plaira! 🔮
 
 ![alt text](https://64.media.tumblr.com/1d68501889e727cc39eb699ea3e220aa/tumblr_omj6dxf96o1qbvovho1_500.gif)
